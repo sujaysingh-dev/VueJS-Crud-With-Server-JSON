@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "596a",
+      "name": "Mohan kumar",
+      "email": "mohankumar@gmail.com",
+      "password": "mohan"
+    },
+    {
+      "id": "3ece",
+      "name": "Sohan kumar",
+      "email": "sohankumar@gmail.com",
+      "password": "sohan"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "2e8c",
+      "name": "patna coffee cafe",
+      "location": "patna ",
+      "contact": 1234567890,
+      "about": "near gandhi maidan gate no 10"
+    }
+  ]
+}
